@@ -1,5 +1,4 @@
-# AlgebraLinear
-Algoritmos para cálculo de determinantes.
+# Algoritmos para cálculo de determinantes.
 <br/>
 Rodar algoritmo em Java: abrir terminal -> botão direito no arquivo "principal.java" -> run java
 <br/>
